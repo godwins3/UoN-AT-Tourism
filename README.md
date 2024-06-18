@@ -6,4 +6,5 @@ Backend code for a travelling agency
   <li>Tourist Destination</li>
   <li>Hotels and accomodation</li>
   <li>Restaurants search</li>
+  <li>User authentication</li>
 </ul>
